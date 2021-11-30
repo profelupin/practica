@@ -1,2 +1,2 @@
 Paso 4 realizado 
-Patron seleccionado: Observer
+Patron seleccionado: Decorator
