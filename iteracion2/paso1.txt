@@ -1,2 +1,0 @@
-Los requerimientos funcionales son:
-datoreq1​ 
