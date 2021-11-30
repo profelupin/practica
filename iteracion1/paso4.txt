@@ -1,4 +1,2 @@
 Paso 4 realizado 
 Patron seleccionado: Cliente-Servidor
-v1​
-d1​
