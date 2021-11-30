@@ -1,0 +1,4 @@
+Paso 4 realizado 
+Patron seleccionado: Cliente-Servidor
+ventaja​
+desventaja​
