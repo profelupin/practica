@@ -1,3 +1,0 @@
-Los requerimientos funcionales son:
-Visualizar productos​ 
-Comprar Productos​ 
