@@ -1,2 +1,3 @@
 Los requerimientos funcionales son:
-datoreq1​ 
+Visualizar productos​ 
+Comprar Productos​ 
