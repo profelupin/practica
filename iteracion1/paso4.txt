@@ -1,1 +1,2 @@
 Paso 4 realizado 
+Patron seleccionado: Adapter
